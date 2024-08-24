@@ -52,4 +52,3 @@ Contributions are welcome! If you have improvements, corrections, or additional 
 ---
 
 Happy coding, and let's make the most of the 100xDevs journey together!
-```
