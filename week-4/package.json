@@ -1,0 +1,16 @@
+{
+  "name": "week-4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "express": "^4.19.2"
+  }
+}
