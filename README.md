@@ -40,11 +40,10 @@ and so on.
 
 ## How to Use
 
-1. **Lecture Codes**: Navigate to the `Lectures/` folder to find code examples from specific lectures.
+1. **Lecture Codes**: Navigate to the `day-1/` folder to find code examples from specific lectures.
 2. **Notes**: Access detailed notes in the `Notes/` folder, categorized by lecture.
 3. **Assignments**: Find your assignments in the `Assignments/` folder. Each assignment is in its own subfolder.
 4. **Assignment Solution Code**: Check the `Solutions/` folder for detailed code solutions to the assignments.
-5. **Articles**: Explore additional reading materials in the `Articles/` folder.
 
 ## Contributing
 
