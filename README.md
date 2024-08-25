@@ -1,4 +1,4 @@
-# 100xDevsCohort3-WebDev
+# 100xDevs-Cohort3-WebDev
 
 Welcome to the repository for the **100xDevs Cohort 3** by **Harkirat Singh**. This repository is dedicated to documenting and sharing the journey through the cohort, including all relevant materials, codes, and resources.
 
